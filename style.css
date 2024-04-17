@@ -1,0 +1,24 @@
+.logo{
+    width: 100px;
+}
+.image1{
+    height: 50vh;
+  
+}
+.image2{
+    height: 50vh;
+  
+}
+.image3{
+    height: 50vh;
+   
+}
+.lorem{
+text-align: center;
+font-size: 40px;
+}
+.divider{
+    height: 1px;
+    width: 100%;
+   background-color: black;
+}
